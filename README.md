@@ -1,0 +1,2 @@
+# CRONOBOT
+In this project i have made a Chatbot using HTML , CSS , JAVASCRIPT , PYTHON and a bit of ArtificiaI  Intelligence along with Machine Learning. This chat can be used by anyone it runs on basic commands and it can be configured easily if you have a little bit Knowledge of the technologies used that i have mentioned previously. Basically The work of this chatbot is to provide the information about the COVID-19 Disease.
